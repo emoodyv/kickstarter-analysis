@@ -1,11 +1,10 @@
-# An Analysis of Kickstarter Campaigns
-Using Kickstarter data to analysis successful projects
-
 # Kickstarting with Excel
 
 ## Overview of Project
+This research is at the behest of a play writer named Louise. She launched a campaign on Kickstarter for her play named Fever. So far that campaign has come close to its fundraising goal. Therefore, Louise wants to use data analytics in order to explore the correlation between successful projects and factors such as lunch date and fundraising goal.
 
 ### Purpose
+The purpose of this project was to analyze a plethora of Kickstarter projects in order to observe how well theater play fundraising campaigns fared. 
 
 ## Analysis and Challenges
 
