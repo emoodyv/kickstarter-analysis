@@ -21,6 +21,8 @@ One of the important conclusions that needed to be deciphered and made was how c
 From this data a conclusion was able to be reached.
 
 ### Analysis of Outcomes Based on Goals
+Much like the need to analyze the data based on the start data it was important to Louise that the Kickstarter data be investigated based on the campaign’s original goal. Accordingly, the only campaigns scrutinized were the those with the subcategory of theater plays. From there excel was used to count the amount and percentage of projects that succeeded, failed, and were canceled. These tallies were then put in perspective of the original goal that the project had. Below is the table that was generated:  
+
 
 ### Challenges and Difficulties Encountered
 
