@@ -28,11 +28,12 @@ Much like the need to analyze the data based on the start data it was important 
 Not dissimilar to the previous analysis, this data is able to gift us with a conclusion.
 
 ### Challenges and Difficulties Encountered
+As with any technical project the biggest hurdle is to harness and correctly apply the technology being used. This project is no exception. Problems that could be encountered would be not understanding excel, mastering excel’s complexities, or correctly setting and formatting the repository on GitHub. These and many more challenges could hinder the completion of this project.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+The data acquired from the analysis of the campaign outcome based on the launch data shows us two important points. Firstly, the best month to start a campaign is May. In this month 66.87% of campaigns started ended up reaching their goal. Quarter two overall follows suit with 64.53% of campaigns succeeding. Secondly, the worst month to start is December. In that month there was a success rate of 52.86%. Conclusively, if you are going to start a theater based campaign on Kickstarter do it in May and not December.
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
