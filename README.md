@@ -7,7 +7,7 @@ This research is at the behest of a play writer named Louise. She launched a cam
 The purpose of this project was to analyze a plethora of Kickstarter projects in order to observe how well theater play fundraising campaigns fared. 
 
 ## Analysis Overview
-In order to accomplish our goal of explore the correlation between successful projects and factors such as lunch date and fundraising goal this endeavor obtained data from 4114 Kickstarter projects. Here are a few examples of what that data looked like:
+Towards the goal of exploring the correlation between successful projects and factors such as lunch date and fundraising goal this endeavor obtained data from 4114 Kickstarter projects. Here are a few examples of what that data looked like:
 
 ![Raw Data](https://user-images.githubusercontent.com/71234992/93292790-389c9980-f79b-11ea-9ace-11372712aa4b.PNG)
 
