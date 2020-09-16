@@ -23,6 +23,9 @@ From this data a conclusion was able to be reached.
 ### Analysis of Outcomes Based on Goals
 Much like the need to analyze the data based on the start data it was important to Louise that the Kickstarter data be investigated based on the campaign’s original goal. Accordingly, the only campaigns scrutinized were the those with the subcategory of theater plays. From there excel was used to count the amount and percentage of projects that succeeded, failed, and were canceled. These tallies were then put in perspective of the original goal that the project had. Below is the table that was generated:  
 
+![Goals Data Table](https://user-images.githubusercontent.com/71234992/93294872-9b446400-f7a0-11ea-86d7-9b8ad197e1c0.PNG)
+
+Not dissimilar to the previous analysis, this data is able to gift us with a conclusion.
 
 ### Challenges and Difficulties Encountered
 
