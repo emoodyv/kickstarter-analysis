@@ -6,7 +6,9 @@ This research is at the behest of a play writer named Louise. She launched a cam
 ### Purpose
 The purpose of this project was to analyze a plethora of Kickstarter projects in order to observe how well theater play fundraising campaigns fared. 
 
-## Analysis and Challenges
+## Analysis Overview
+
+
 
 ### Analysis of Outcomes Based on Launch Date
 
