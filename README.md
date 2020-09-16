@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This research is at the behest of a play writer named Louise. She launched a campaign on Kickstarter for her play named Fever. So far that campaign has come close to its fundraising goal. Therefore, Louise wants to use data analytics in order to explore the correlation between successful projects and factors such as lunch date and fundraising goal.
+This research is at the behest of a play writer named Louise. She launched a campaign on Kickstarter for her play named _Fever_. So far that campaign has come close to its fundraising goal. Therefore, Louise wants to use data analytics in order to explore the correlation between successful projects and factors such as lunch date and fundraising goal.
 
 ### Purpose
 The purpose of this project was to analyze a plethora of Kickstarter projects in order to observe how well theater play fundraising campaigns fared. 
@@ -33,9 +33,17 @@ As with any technical project the biggest hurdle is to harness and correctly app
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The data acquired from the analysis of the campaign outcome based on the launch data shows us two important points. Firstly, the best month to start a campaign is May. In this month 66.87% of campaigns started ended up reaching their goal. Quarter two overall follows suit with 64.53% of campaigns succeeding. Secondly, the worst month to start is December. In that month there was a success rate of 52.86%. Conclusively, if you are going to start a theater based campaign on Kickstarter do it in May and not December.
+
 - What can you conclude about the Outcomes based on Goals?
+
+The table that was formed in order to analyze the outcomes based on goals shows us that the goal of the project is particularly important with regard the outcome. Overall if the outcome desired is to be successful then the goal needs to set lower rather than higher. Higher goals are typically unsuccessful.
 
 - What are some limitations of this dataset?
 
+Even though there are 1033 campaigns in the theater plays subcategory alone more campaigns would result in more significantly sound data, analysis, and conclusions. Furthermore, the data categories proved by Kickstarter in the raw data are not the most comprehensive. As such this limits the conclusions that can be drawn. For example, could the location of the campaign, the story that is written about it, or the rewards for backing it influence the efficacy of the campaign? Maybe, but with this data we will not know.
+
 - What are some other possible tables and/or graphs that we could create?
+
+With the data that we have one of the possible tables that we could create is a comparative analysis or each of the categories. This would indicate which category is the most successful.
